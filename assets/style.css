@@ -54,7 +54,7 @@
   }
   
     section {
-    flex: 3;
+   box-sizing: border-box;
     background-color: #fff;
     padding: 20px;
   }
