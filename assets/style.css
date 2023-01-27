@@ -22,7 +22,7 @@
 }
 
   ul {
-    position: sticky;
+    position:static;
     width: 100%;
     list-style-type: none;
     margin: 0;
